@@ -67,4 +67,7 @@ messages:
     - "  &b&n|&r  &fTo continue your survival, purchase a"
     - "  &b|  &frebirth on our website: &bhttps://yoursite.com"
     - " "
+
 ```
+
+<img width="761" height="292" alt="image" src="https://github.com/user-attachments/assets/f797f80e-e1cc-49f6-abb6-d30776d46c7c" />
