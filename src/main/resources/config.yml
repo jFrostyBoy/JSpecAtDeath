@@ -1,0 +1,40 @@
+
+#    ░░░░░██╗░██████╗██████╗░███████╗░█████╗░░█████╗░████████╗██████╗░███████╗░█████╗░████████╗██╗░░██╗
+#    ░░░░░██║██╔════╝██╔══██╗██╔════╝██╔══██╗██╔══██╗╚══██╔══╝██╔══██╗██╔════╝██╔══██╗╚══██╔══╝██║░░██║
+#    ░░░░░██║╚█████╗░██████╔╝█████╗░░██║░░╚═╝███████║░░░██║░░░██║░░██║█████╗░░███████║░░░██║░░░███████║
+#    ██╗░░██║░╚═══██╗██╔═══╝░██╔══╝░░██║░░██╗██╔══██║░░░██║░░░██║░░██║██╔══╝░░██╔══██║░░░██║░░░██╔══██║
+#    ╚█████╔╝██████╔╝██║░░░░░███████╗╚█████╔╝██║░░██║░░░██║░░░██████╔╝███████╗██║░░██║░░░██║░░░██║░░██║
+#    ░╚════╝░╚═════╝░╚═╝░░░░░╚══════╝░╚════╝░╚═╝░░╚═╝░░░╚═╝░░░╚═════╝░╚══════╝╚═╝░░╚═╝░░░╚═╝░░░╚═╝░░╚═╝
+
+prefix: "&8[&bJSAD&8] "
+
+sounds:
+  return:
+    sound: "entity.player.levelup"
+    volume: 1.0
+    pitch: 1.0
+  death:
+    sound: "entity.wither.spawn"
+    volume: 1.0
+    pitch: 1.0
+
+messages:
+  no-permission: "&fYou &cdon't have &fpermission"
+  reloaded: "&fPlugin successfully &areloaded"
+
+  usage:
+    reload: "&fUsage: &b/jsadreload"
+    return: "&fUsage: &b/jsadreturn [nickname]"
+
+  not-found: "&fPlayer &cnot found! &fMaybe he &coffline?.."
+  not-spectator: "&fPlayer &b%player% &fis &cnot in &fspectator mode"
+  returned: "&fYou are back to &asurvival &fmode! We &bwish &fyou new &aachievements &fand fewer &cdeaths!"
+  returned-player: "&fYou returned &b%player% &fto &asurvival &fmode!"
+  death-notice:
+    - " "
+    - "  &b&n|&r  &fYou &cdied!"
+    - "  &b|  &fYou are now in &bspectator &fmode."
+    - " "
+    - "  &b&n|&r  &fTo continue your survival, purchase a"
+    - "  &b|  &frebirth on our website: &bhttps://yoursite.com"
+    - " "

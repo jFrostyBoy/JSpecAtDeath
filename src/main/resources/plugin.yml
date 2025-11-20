@@ -1,0 +1,12 @@
+name: JSpecAtDeath
+version: '${project.version}'
+main: jfbdev.jspecatdeath.JSpecAtDeath
+api-version: '1.16'
+authors: [jFrostyBoy]
+website: https://github.com/jFrostyBoy
+
+commands:
+  jsadreload:
+    usage: /<command>
+  jsadreturn:
+    usage: /<command> <nickname
